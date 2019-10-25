@@ -1,7 +1,7 @@
 # QUIZAPP
 
-A Simple Quiz App (underway..)
+   A Simple Quiz App (underway..)
 
 # Features:
-  random questions <br>
-  high scores
+   random questions <br>
+   high scores
