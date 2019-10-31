@@ -3,5 +3,6 @@
    A Simple Quiz App (underway..)
 
 # Features:
-   random questions <br>
-   high scores
+   play <br>
+   high scores <br>
+   return to homepage
